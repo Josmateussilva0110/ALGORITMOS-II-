@@ -5,7 +5,7 @@
 #define TAM 50
 #define TAM2 1000
 
-
+//Lucas Emanuel, Rai, José mateus
 int num_stopwords = 61;
 char palavras_stopwords[TAM2][TAM];
 /////////////////////////////////////////////////////////////////////////////////////////////
