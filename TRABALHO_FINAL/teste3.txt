@@ -1,0 +1,11 @@
+
+palavra: tecnologia, ocorrencia: 4
+palavra: ciãªncia, ocorrencia: 4
+palavra: filosofia, ocorrencia: 3
+palavra: ã©, ocorrencia: 2
+palavra: campo, ocorrencia: 2
+palavra: teorias, ocorrencia: 2
+palavra: vocãªs, ocorrencia: 2
+palavra: este, ocorrencia: 2
+palavra: mais, ocorrencia: 2
+palavra: estã¡, ocorrencia: 2
